@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/25/user/942565).
-* Наставник: `Неизвестно`.
+* Наставник: [Сергей Шершнев](https://htmlacademy.ru/profile/shv_sergey)
 
 ---
 
